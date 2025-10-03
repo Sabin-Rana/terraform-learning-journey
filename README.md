@@ -1,21 +1,31 @@
-# 🚀 Terraform Learning Journey
+# Terraform Learning Journey
 
 **Converting AWS console projects to Infrastructure as Code**
 
-## 📅 Current Focus: Foundation
-- Mastering Terraform basics and core AWS resources
-- Converting existing AWS console projects to Infrastructure as Code
+## About
 
-## 🎯 Projects in Progress
-- [ ] Convert VPC Network Isolation to Terraform
-- [ ] Convert 3-Tier Architecture to Terraform  
-- [ ] Convert Serverless Application to Terraform
+Building Infrastructure as Code expertise through hands-on Terraform practice with AWS services. This repository documents my progression from console implementations to automated, repeatable infrastructure deployments.
 
-## 📊 Skills Development
-- **Terraform Fundamentals**: In Progress
-- **AWS Resource Management**: Building
-- **Infrastructure as Code**: Learning
+## Current Focus
 
----
+Mastering Terraform fundamentals and AWS resource automation. Learning core concepts through daily practice with real infrastructure components.
 
-*Following a structured 30-day plan to master Terraform and AWS automation*
+## Planned Project Conversions
+
+Converting existing console implementations to Terraform:
+
+- VPC Network Architecture - Enterprise networking with subnet isolation and security controls
+- 3-Tier Web Application - High availability infrastructure with Auto Scaling and Multi-AZ RDS
+- Serverless Application - Lambda, API Gateway, and DynamoDB stack
+
+## Skills Building
+
+**Terraform:** Resource management, state handling, modules, best practices
+
+**AWS Services:** VPC, EC2, Lambda, RDS, S3, CloudFront, Route53, IAM, CloudWatch
+
+**DevOps:** Infrastructure as Code, version control, automation, security
+
+## Progress
+
+Daily commits track learning and implementation progress.
