@@ -39,3 +39,6 @@ terraform.rc
 scratch.txt
 notes.txt
 personal/
+
+# Terraform dependency lock files
+.terraform.lock.hcl
