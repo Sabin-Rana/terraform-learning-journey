@@ -1,0 +1,12 @@
+## My Mental Model: Serverless Computing
+Think of **AWS Lambda** like running a food truck business:
+
+| Real World Analogy | AWS Concept | Description |
+|--------------------|-------------|--------------|
+| Food Truck | **Lambda Function** | Your code execution unit |
+| Chef | **Python/Node.js Code** | Your business logic |
+| Recipe Book | **Handler Function** | Entry point for execution |
+| Employee Badge | **IAM Role** | Security permissions and identity |
+| Customer Orders | **Triggers** | Events that start your function |
+| Kitchen Notebook | **CloudWatch Logs** | Records of all activities |
+| Pay-per-meal | **Lambda Pricing** | Pay only when code runs |

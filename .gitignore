@@ -42,3 +42,7 @@ personal/
 
 # Terraform dependency lock files
 .terraform.lock.hcl
+
+# Lambda deployment packages
+lambda_function_payload.zip
+*.zip
