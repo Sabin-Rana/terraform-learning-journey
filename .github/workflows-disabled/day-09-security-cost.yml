@@ -1,0 +1,8 @@
+name: Day 09 - Security & Cost Pipeline
+on:
+  push:
+    branches: [ main ]
+    paths: ['day-09-security-cost-optimization/**']
+  pull_request:
+    branches: [ main ]
+    paths: ['day-09-security-cost-optimization/**']
