@@ -227,3 +227,9 @@ The progression from manual console work to automated IaC demonstrates not just 
 ---
 
 *Star this repository if you're learning Terraform or transitioning to Infrastructure as Code!*
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Sabin-Rana/terraform-learning-journey/blob/main/LICENSE) file for details.
+
+You are free to use this code for learning, personal projects, or commercial applications with attribution.
