@@ -8,13 +8,13 @@
 
 ## Background: From Console to Code
 
-After building 8 production AWS projects through manual console deployment, I recognized the critical need for automation, reproducibility, and scalability. This repository documents the systematic transition from click-based infrastructure management to declarative Infrastructure as Code.
+After building 8 AWS architectures through manual console deployment, I recognized the critical need for automation, reproducibility, and scalability. These hands-on implementations gave me deep understanding of AWS service interactions before automating with Terraform. This repository documents the systematic transition from click-based infrastructure management to declarative Infrastructure as Code.
 
 **Read the complete story:** [Starting My Terraform Journey: From AWS Console to Infrastructure as Code](https://sabin-codeops.hashnode.dev/starting-my-terraform-journey-from-aws-console-to-infrastructure-as-code)
 
 ### Foundation: Console-Based AWS Projects
 
-Before automating with Terraform, I built hands-on expertise through 8 production implementations:
+Before automating with Terraform, I built hands-on expertise through 8 detailed implementations:
 
 **Featured Architectures:**
 - [3-Tier Web Architecture](https://github.com/Sabin-Rana/aws-3tier-architecture) - VPC, ALB, EC2 Auto Scaling, RDS Multi-AZ (115+ documented steps)
@@ -69,7 +69,7 @@ This foundation provided deep understanding of AWS service dependencies, securit
 ## Key Achievements
 
 ### Efficiency & Automation
-- **Deployment Time Reduction:** 45 minutes → 3 minutes (93% faster)
+- **Deployment Time Reduction:** Manual console deployment (45 min) → Terraform automation (3 min) - 93% efficiency gain
 - **Reproducibility:** 100% consistent infrastructure across environments
 - **Zero-Downtime Capability:** Automated deployment with minimal disruption
 
